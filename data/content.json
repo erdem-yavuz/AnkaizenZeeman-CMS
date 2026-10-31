@@ -1,0 +1,82 @@
+{
+  "site": {
+    "title": "Ankaizen & Zeeman Mühendislik",
+    "logo": "assets/ankaizen_logo.png",
+    "zeeman_logo": "assets/zeeman_logo.png"
+  },
+  "home": {
+    "hero_title": "Kriyojenik Servis & Mühendislik",
+    "hero_subtitle": "Profesyonel sistemler, güvenli montaj, bakım ve onarım hizmetleriyle sektörde lider konumdayız.",
+    "hero_button": "Çözümlerimizi Keşfedin"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "content": "<p><strong>ANKAİZEN</strong> ve <strong>ZEEMAN MÜHENDİSLİK</strong>, mühendislik, teknik uygulama ve endüstriyel çözümler alanında uzmanlaşmış iki firmadır. 2005 yılından beri kriyojenik sistemler, endüstriyel borulama ve kaynak mühendisliği alanlarında müşterilerimize güvenilir ve kaliteli hizmet sunmaktayız.</p><p>Yüksek teknik ekipmanlar, sertifikalı mühendisler ve uluslararası standartlara uygun prosedürlerle çalışarak, enerji, kimya, tıbbi gaz ve havacılık sektörlerinde projelerimizle güveni garantilemek için çalışıyoruz.</p>"
+  },
+  "activities": {
+    "title": "Faaliyet Alanlarımız",
+    "items": [
+      {
+        "title": "Kriyojenik Sistemler",
+        "content": "Sıvılaştırılmış gaz depoları, soğutma sistemleri, vakumlu tanklar, ısı izolasyon sistemleri."
+      },
+      {
+        "title": "Endüstriyel Borulama",
+        "content": "Paslanmaz çelik, karbon çelik, alaşımlı boru hattı imalatı ve kaynak hizmetleri."
+      },
+      {
+        "title": "Bakır Boru Hatları",
+        "content": "TS EN 1412, EN 13348 standartlarına uygun, yarı sert bakır borularla gaz tesisatı kurulumları."
+      },
+      {
+        "title": "Sertifikalı Kaynak",
+        "content": "ISO 3834-2, EN 15609, AWS D1.1 standartlarına uygun kaynak hizmetleri."
+      }
+    ]
+  },
+  "installation": {
+    "title": "Montaj ve Saha Uygulamaları",
+    "items": [
+      {
+        "title": "Hazırlık ve Planlama",
+        "content": "Dizayn analizleri, hesap raporları, teknik resimler ve EN15609-X WPS belgeleri eşliğinde sertifikalı imalat."
+      },
+      {
+        "title": "Sevkiyat ve Kurulum",
+        "content": "Kriyojenik tankların yapısal özellikleri dikkate alınarak güvenli planlama, yükleme ve yerleştirme süreçleri."
+      },
+      {
+        "title": "Devreye Alma",
+        "content": "Vakum testleri, sızıntı testleri, basınç testleri ve sistem performans analizi."
+      },
+      {
+        "title": "Eğitim ve Destek",
+        "content": "Operatörlere yönelik dolum/boşaltma prosedürleri ve acil durum yönetimi eğitimleri."
+      }
+    ]
+  },
+  "references": {
+    "title": "Referanslarımız",
+    "items": [
+      {
+        "title": "Petkim - Kriyojenik Gaz Tesisleri",
+        "content": "2025 - 2026: 1500 m3 sıvı oksijen depolama tankı kurulumu."
+      },
+      {
+        "title": "Tüpraş - Endüstriyel Boru Hattı",
+        "content": "2024 - 2025: 20 km ASME B31.3 boru hattı imalatı ve montajı."
+      },
+      {
+        "title": "TÜBİTAK - Kriyojenik Laboratuvar",
+        "content": "2023 - 2024: Sıvı azot sistemi kurulumu ve testleri."
+      }
+    ]
+  },
+  "contact": {
+    "title": "İletişim",
+    "address": "İstanbul, Ataşehir, Teknokent Mah. 123. Cadde, No: 45",
+    "phone": "+90 216 123 45 67",
+    "email": "info@ankaizen.com",
+    "website": "www.ankaizen.com"
+  }
+}
