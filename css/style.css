@@ -1,0 +1,35 @@
+:root {
+    --main-blue: #0a2351;
+    --gold-accent: #c5a059;
+    --light-bg: #f8f9fa;
+    --dark-txt: #333;
+    --white: #ffffff;
+}
+
+body { font-family: 'Poppins', sans-serif; margin: 0; line-height: 1.6; color: var(--dark-txt); }
+a { text-decoration: none; transition: 0.3s; }
+
+/* Navbar */
+.navbar { background: var(--white); display: flex; justify-content: space-between; align-items: center; padding: 15px 5%; box-shadow: 0 2px 15px rgba(0,0,0,0.1); position: sticky; top:0; z-index: 1000;}
+.logo-group img { height: 60px; margin-right: 10px; }
+.nav-links { list-style: none; display: flex; gap: 20px; }
+.nav-links a { color: var(--main-blue); font-weight: 600; font-size: 14px; text-transform: uppercase; }
+.nav-links a:hover, .nav-links a.active { color: var(--gold-accent); }
+
+/* Hero Section */
+.hero { height: 80vh; background: linear-gradient(rgba(10,35,81,0.7), rgba(10,35,81,0.7)), url('../assets/hero-bg.jpg') center/cover; display: flex; align-items: center; justify-content: center; text-align: center; color: white; }
+.hero-content h1 { font-size: 3.5rem; margin-bottom: 20px; }
+.btn-prime { background: var(--gold-accent); color: white; padding: 12px 30px; border-radius: 5px; font-weight: bold; }
+
+/* Content Sections */
+.container { width: 85%; max-width: 1200px; margin: 60px auto; }
+.section-title { text-align: center; margin-bottom: 40px; }
+.section-title h2 { color: var(--main-blue); font-size: 2.5rem; position: relative; display: inline-block; }
+.section-title h2::after { content: ""; width: 50px; height: 3px; background: var(--gold-accent); position: absolute; bottom: -10px; left: 50%; transform: translateX(-50%); }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; }
+.feature-card { background: var(--light-bg); padding: 30px; border-radius: 10px; border-bottom: 4px solid var(--main-blue); transition: 0.3s; }
+.feature-card:hover { transform: translateY(-10px); box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
+
+/* Footer */
+footer { background: var(--main-blue); color: white; text-align: center; padding: 30px 0; margin-top: 50px; }
